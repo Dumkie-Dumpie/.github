@@ -5,7 +5,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about the one created this README.MD
 
 ```javascript
-const anmol = {
+const taphuynh = {
     pronouns: "He" | "Him",
     code: ["Javascript", "C-Sharp", "Java"],
     askMeAbout: ["dev", "tech", "delivery", "RPA", "chitchat"],
@@ -20,13 +20,13 @@ const anmol = {
         databases: ["MSSQL", "PostgreSQL", "Redis"],
         misc: ["Azure Devops", "Socket.IO", "selenium", "Azure Bot", "ChatGPT", "Office365", "RPA"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    architecture: ["Microservices", "Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "Leading 3 Delivery Teams, Java and Family",
     funFact: "You only live once"
 };
 ```
 
-## We're going to focus on Tech stack:
+## In this Org, we're going to focus on Tech stack:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
